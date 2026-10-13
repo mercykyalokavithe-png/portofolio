@@ -43,4 +43,10 @@ footer{
     header{padding: 30px 15px;}
     nav a{display: block: margin: 8px 0;}
     section{margin: 15px;}
+.project{
+border-left: 4px solid #2a9d8f;
+padding-left: 12px;
+margin-bottom: 16px;
 }
+.project h3{margin: 0 0 4px; color: #1f4e79;}
+a{color: #1f4e79;}
